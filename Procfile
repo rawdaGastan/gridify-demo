@@ -1,1 +1,1 @@
-caddy: caddy run
+caddy: caddy file-server -browse 
